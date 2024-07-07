@@ -1,8 +1,8 @@
 - "بسم الله الرحمن الرحيم"
-- 👋 Hi, I’m Ayat Gamal
-- 👀 interested in Programming & New Technologies
-- 🌱 I’m currently learning Computer Science
-- 📫 How to reach me Ayat.ga106@gmail.com
+- Hi, I’m Ayat Gamal
+- Junior Software engineer 🧑🏻‍💻
+- How to reach me Ayat.ga106@gmail.com
+- 
 - 💖 ( وَقُلْ رَبِّ زِدْنِي عِلْمًا ) 
  
 <!---
